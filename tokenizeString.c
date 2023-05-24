@@ -43,4 +43,3 @@ char *stringToken(char *line, char *endStr)
 	}
 	return (arrayCharHolder);
 }
-

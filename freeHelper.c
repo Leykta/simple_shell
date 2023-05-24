@@ -42,7 +42,7 @@ void freeAlldata(progData *prog)
 
 /**
  * arrayPointer - realeasing memory
- * @list: array of pointers
+ * @array: array of pointers
  *
  * Return: returns nothing
  */
@@ -60,4 +60,3 @@ void arrayPointer(char **list)
 		list = NULL;
 	}
 }
-

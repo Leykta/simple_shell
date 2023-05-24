@@ -164,4 +164,3 @@ int manageAlias(progData *prog)
 
 	return (0);
 }
-

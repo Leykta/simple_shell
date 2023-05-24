@@ -87,4 +87,3 @@ int logicCheck(char *cmdList[], int tmp1, char oprList[])
 	}
 	return (tmp1);
 }
-

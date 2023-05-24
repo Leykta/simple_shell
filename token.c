@@ -41,4 +41,3 @@ void tokStr(progData *prog)
 		prog->tkn[tmp1] = duplicateString(stringToken(NULL, endChar));
 	}
 }
-
