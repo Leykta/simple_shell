@@ -55,7 +55,7 @@ typedef struct builtins
 } builtins;
 
 /*------------ main functions of the program -------------*/
-/*--  main.c  --*/
+/*--  shell.c  --*/
 
 void InitializeData(progData *prog, int arc, char *argv[], char **envr);
 void sIsInfo(char *prompt, progData *prog);
